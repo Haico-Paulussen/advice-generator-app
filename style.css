@@ -82,7 +82,7 @@ main p {
 .content-card {
     display: grid;
     place-items: center;
-    grid-gap: .325rem;
+    grid-gap: .125rem;
     width: 450px;
 
     background-color: var(--Dark-Grayish-Blue);
