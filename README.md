@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/marvel-quote-generator-with-marvel-api-and-css-grid-ArgjFDjX3S))
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/marvel-quote-generator-with-marvel-api-and-css-grid-ArgjFDjX3S)
 - Live Site URL: [Github Pages](https://haico-paulussen.github.io/advice-generator-app/)
 
 ## My process
